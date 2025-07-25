@@ -1,12 +1,14 @@
+# <center> 🤖 AI Photo Server </center>
+
 <p align="center">
-    <img alt="Static Badge" src="https://img.shields.io/badge/JDK-17-blue">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Spring%20Boot-3.4.7-blue">
-    <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-8.0-blue"> 
-    <img alt="Static Badge" src="https://img.shields.io/badge/Redis-6.0%2B-blue"> 
-    <img alt="Static Badge" src="https://img.shields.io/badge/License-AGPL3.0-blue">
+    <img src="https://camo.githubusercontent.com/aea507bdf89d723fcce240f0af95e47c1c158acc85496e9f54d10f174066eddf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56657273696f6e2d312e302e302d626c75652e737667" alt="Version" data-canonical-src="https://img.shields.io/badge/Version-1.0.0-blue.svg" style="max-width: 100%;">
+    <img alt="Static Badge" src="https://img.shields.io/badge/License-AGPL3.0-green">
+    <img alt="Static Badge" src="https://img.shields.io/badge/JDK-17-green">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Spring%20Boot-3.4.7-red">
 </p>
 
-# AI Photo Service
+[<center><img src="https://github.githubassets.com/images/icons/emoji/octocat.png" style="width: 20px;height: 20px;"> **Github**</center>](https://github.com/LXReaper/ai-photo-service)
+
 
 ### Reference Documentation
 
